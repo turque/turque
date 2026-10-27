@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome] 👋
+# Olá, sou Arnaldo Turque 👋
 
 **Tech Lead Ágil & Arquiteto de Software** focado em desenhar sistemas distribuídos resilientes, automação e arquiteturas orientadas a eventos/agentes.
 
